@@ -11,7 +11,6 @@
 ```js
 import { build } from './magic';
 
-// Personal Information
 const me = {
   fullName: 'Muhammed Albarmavı',
   professionalTitle: 'Senior Frontend Developer',
@@ -23,7 +22,8 @@ const skills = [
     'JavaScript', 
     'TypeScript', 
     'Angular', 
-    'RxJS', 
+    'RxJS',
+    'NgRx', 
     'PrimeNG', 
     'Tailwind CSS', 
     'Node.js'];
